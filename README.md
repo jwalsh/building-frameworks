@@ -1,6 +1,6 @@
 # Background 
 
-This is a series of exercises to implement some core JavaScript libraries from the ground up. 
+This is a series of exercises to implement some core features of some JavaScript libraries from the ground up. 
 
 - http://aosabook.org/en/index.html
 
@@ -23,13 +23,13 @@ https://en.wikipedia.org/wiki/YUI_Library
 
 http://ejohn.org/blog/bringing-the-browser-to-the-server/
 
-## 2008?: JSON 
-
-https://github.com/douglascrockford/JSON-js/blob/master/json2.js
-
 ## 2009: Underscore 
 
 ## 2009: Protovis / D3
+
+## 2010: JSON 
+
+https://github.com/douglascrockford/JSON-js/blob/master/json2.js
 
 ## 2010: Backbone
 
@@ -38,6 +38,9 @@ http://backbonejs.org/docs/backbone.html
 - Model 
 - Collection 
 
+http://www.gigamonkeys.com/code-reading/
+
+> My presentation to the code reading group started with stock backbone.js and then walked through the changes I would make to it to make it, by my lights, more understandabl
 
 ## 2011: ADSafe 
 
@@ -72,4 +75,4 @@ https://github.com/Reactive-Extensions/RxJS
 
 https://github.com/ubolonton/js-csp
 https://stackoverflow.com/questions/20632512/comparing-core-async-and-functional-reactive-programming-rx
-
+https://github.com/getify/asynquence
