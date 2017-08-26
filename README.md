@@ -4,6 +4,10 @@ This is a series of exercises to implement some core features of some JavaScript
 
 - http://aosabook.org/en/index.html
 
+## 2003: Little JavaScripter
+
+http://javascript.crockford.com/little.js
+
 ## 2006: jQuery 
 
 http://ejohn.org/blog/annotated-version-of-the-original-jquery-release/
@@ -38,6 +42,8 @@ http://backbonejs.org/docs/backbone.html
 - Model 
 - Collection 
 
+https://www.slideshare.net/AddyOsmani/tools-for-jquery-application-architecture-extended-slides/30-Backbonejs_Lead_Jeremy_Ashkenas_Backbone
+
 http://www.gigamonkeys.com/code-reading/
 
 > My presentation to the code reading group started with stock backbone.js and then walked through the changes I would make to it to make it, by my lights, more understandabl
@@ -65,6 +71,9 @@ https://en.wikipedia.org/wiki/Futures_and_promises
 
 https://github.com/Reactive-Extensions/RxJS
 
+## JWT
+
+https://codepen.io/jpetitcolas/pen/zxGxKN
 
 ## 2015: RxJS
 
