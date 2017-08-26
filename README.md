@@ -67,3 +67,9 @@ https://github.com/Reactive-Extensions/RxJS
 
 http://reactivex.io/rxjs/
 https://github.com/Reactive-Extensions/RxJS
+
+## 2017:  core.async
+
+https://github.com/ubolonton/js-csp
+https://stackoverflow.com/questions/20632512/comparing-core-async-and-functional-reactive-programming-rx
+
